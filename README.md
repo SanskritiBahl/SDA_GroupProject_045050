@@ -1,10 +1,12 @@
 ## SDA_GroupProject_045050
 ## Author  : Sanskriti Bahl
 #  Car Sales Dashboard
-<video controls>
-  <source src="path/to/your/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Screenshot from 2024-11-23 14-53-21](https://github.com/user-attachments/assets/8770cd98-07df-41f8-b28e-2a00ef7e6659)
+
+![Screenshot from 2024-11-23 14-54-52](https://github.com/user-attachments/assets/a65492c4-8cb4-49ed-b74e-e47b2383d729)
+
+
+
 
 ## **Introduction**
 This dashboard is a comprehensive tool to analyze car sales data and uncover meaningful insights. It gives you a clear picture of how different car makes, models, and categories are performing in terms of sales, pricing, and market value. With this dashboard, you can spot trends, understand consumer preferences, and even optimize your sales strategies.
